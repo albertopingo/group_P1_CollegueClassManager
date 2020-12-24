@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1608779569 source:c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"funcoes_UC.h"
+	"funcoes_menu.h"
+
+1608768877 source:c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\funcoes_menu.c
+	<stdio.h>
+	<ctype.h>
+	"funcoes_auxiliares.h"
+
+1608764700 c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\funcoes_auxiliares.h
+	"constantes.h"
+
+1608768496 c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\constantes.h
+
+1608769015 source:c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1608779580 c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\funcoes_uc.h
+	<stdio.h>
+	"constantes.h"
+	"estruturas.h"
+	"funcoes_auxiliares.h"
+
+1608773559 c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\estruturas.h
+	"constantes.h"
+
+1608769106 c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\funcoes_menu.h
+
+1608779609 source:c:\users\luisp\onedrive\ambiente de trabalho\projeto_p1\funcoes_uc.c
+	"funcoes_UC.h"
+
